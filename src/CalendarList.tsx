@@ -51,7 +51,7 @@ const CalendarList = ({
       <View
         style={{
           height: LAYOUT_HEIGHT,
-          backgroundColor: "#fff",
+          backgroundColor: "transparent",
         }}
       >
         <Month
